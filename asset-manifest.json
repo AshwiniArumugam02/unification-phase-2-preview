@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/css/main.9a427b54.css",
+    "main.js": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/js/main.c861d3ce.js",
+    "static/js/453.e9e7ec89.chunk.js": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/js/453.e9e7ec89.chunk.js",
+    "static/media/wordmark.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/wordmark.69aa3558a49455aaf153175141e15467.svg",
+    "static/media/nav-vault.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/nav-vault.4ea59be1064654544c356dcbb4d940d4.svg",
+    "static/media/nav-runs.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/nav-runs.7da7a9b44fb0a6b84a7de5210be8c6bc.svg",
+    "static/media/nav-modelcatalog.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/nav-modelcatalog.9da5b8263faf365fdb2361d6c9afdc7e.svg",
+    "static/media/nav-mlflow.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/nav-mlflow.15c17e42aacae039179efb8a79c0b49d.svg",
+    "static/media/logo-mark.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/logo-mark.5333d55375e8ebef3efaf1852c5a9518.svg",
+    "static/media/nav-endpoints.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/nav-endpoints.2b10fbb7c35529e5f65ef51b63f9cfbe.svg",
+    "index.html": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/index.html",
+    "static/media/nav-optimizer.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/nav-optimizer.43fdb8fc3a3f8a407c2b08977ab73d82.svg",
+    "static/media/nav-components.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/nav-components.546fb6a6f3893efdf5c6c745d7633a29.svg",
+    "static/media/nav-pipelines.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/nav-pipelines.a7d3aeec326ffc4dee3e9b1083800cd7.svg",
+    "static/media/nav-home.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/nav-home.def11c081998eb14660480845260865b.svg",
+    "static/media/nav-designworkbench.svg": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/media/nav-designworkbench.6b3104713ce1208a55549172e1009437.svg",
+    "main.9a427b54.css.map": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/css/main.9a427b54.css.map",
+    "main.c861d3ce.js.map": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/js/main.c861d3ce.js.map",
+    "453.e9e7ec89.chunk.js.map": "https://AshwiniArumugam02.github.io/unification-phase-2-preview/static/js/453.e9e7ec89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a427b54.css",
+    "static/js/main.c861d3ce.js"
+  ]
+}
